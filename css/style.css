@@ -1,0 +1,19 @@
+button{
+    padding: 15px 60px;
+    color: aliceblue;
+    background-color: violet;
+    border: 1px solid rebeccapurple;
+    margin-top: 50px;
+  margin-left: 50px;
+}
+body{
+    text-align: center;
+}
+h1{
+    font-size: 30px;
+    color: brown;
+}
+p{
+    font-size: 30px;
+    color: blueviolet;
+}
